@@ -4,17 +4,6 @@ This project is a website that lists some recipes along with their ingredients.
 
 I will learn how to add HTML into my page structure and include some basic CSS.
 
+This project tought me how to create proper links. I had an issue where I couldn't link to certain pages and had to discover why those links weren't working. It turns out I had a slash added in the directory link when it wasn't required. 
 
-
-
-Iteration 4: Add More Recipes
-Add two more recipes with identical page structures to the recipe page you’ve already created.
-Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
-Example:
-
- <ul>
-    <li><a href="recipes/yourrecipe.html">Recipe Title 1</a></li>
-    <li><a href="recipes/yourrecipe.html">Recipe Title 2</a></li>
-    <li><a href="recipes/yourrecipe.html">Recipe Title 3</a></li>
-  </ul>
-Your links won’t be flashy, but for now just focus on building them out.
+I also learn't a lot about page structure and header numbers. 
